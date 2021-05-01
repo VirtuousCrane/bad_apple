@@ -1,0 +1,3 @@
+/home/akagi/Documents/bad_apple/CMakeFiles/rebuild_cache.dir
+/home/akagi/Documents/bad_apple/CMakeFiles/edit_cache.dir
+/home/akagi/Documents/bad_apple/CMakeFiles/main.dir
